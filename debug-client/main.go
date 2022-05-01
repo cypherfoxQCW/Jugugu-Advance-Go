@@ -1,8 +1,7 @@
 package main
 
-// https://github.com/doxulovezh/blockchaincommon-go-sdk
 /*
- * @Descripttion:封装密钥托管的引用例子；文档请Follow Link      https://pkg.go.dev/github.com/doxulovezh/blockchaincommon-go-sdk
+ * @Descripttion:封装密钥托管的引用例子
  * @version:0.1
  * @Author: 秦风大哥
  * @Date: 2022-01-21 17:58:30
